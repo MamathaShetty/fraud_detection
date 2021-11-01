@@ -11,4 +11,7 @@ def Model2():
 def Model3():
     print("Model3")
 
-print("Model 2 is performing best")
+def Model4():
+    print("Model4")
+
+print("Model 4 is performing best")
